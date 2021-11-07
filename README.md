@@ -42,4 +42,5 @@ We can select the numbers of prediction
 # Evaluate the model
  Efficience and Latency
  evaluate the time of prediction
+ I found that the time of prediction was in range 0.2s 
  
