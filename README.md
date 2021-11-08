@@ -44,3 +44,10 @@ We can select the numbers of prediction
  evaluate the time of prediction
  I found that the time of prediction was in range 0.2s 
  
+Accuracy
+I can use simple metrics like top-1 accuracy
+or top-k accuracy 
+
+# Reference
+LogME: Practical Assessment of Pre-trained Models for Transfer Learning
+
